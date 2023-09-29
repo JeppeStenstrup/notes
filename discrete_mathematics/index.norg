@@ -1,0 +1,7 @@
+* Discrete Mathematics
+** Resources:
+   [Concrete Mathematics]{/ ./resources/Concrete Mathematics: A Foundation for Computer Science.pdf}
+
+* [Concrete Mathematics] Notes
+  - [Notations]{/ tex/notations.tex}
+  - [Chapter 1 - Recurrent Problems]{/ tex/chapter_1.tex}
