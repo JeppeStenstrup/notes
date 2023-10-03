@@ -1,0 +1,16 @@
+* Afklaringsmøde ang. MyVitec
+** Release Notes
+*** Vil det have indflydelse på workflow som det er i dag?
+    - Nej, da det hele alligevel bliver trukket fra ADS.
+    - Det vil faktisk kun gøre det nemmere, da der ikke er en (Heidi) som skal gøre det manuelt
+*** Indvændinger og forbedringer?
+    - Mere klare filtre, og ingen områder for nu. Områder er ikke noteret på nuværende tidspunkt, men det blive interessant senere
+    - Ved søgning over flere versioner / releases, skal grupperingen ske som i "Documentation", med release som titel og alle tilhørende release notes under
+    - Det skal sikres at de release notes der bliver vist har en godkendt "Reviewed"-status
+*** Øvrige kommentarer
+    - Engelske release notes bliver vendt på fremtidigt møde, og skal aftales hvem der står for at opdatere dem
+    - Hver release note /skal/ have et ADS-nummer vist, men sagsnummer er /kun/ hvis det er sat
+** Sagsoverblik
+*** Skal sagstyper mappes til enten PORTMAN eller IDEAS?
+    - Ja, det skal de, men det skal lige undersøges hvad der gøres i dag, og om det kan løses gennem SQL udtræk
+    - Det skal bekræftes/testes for at verificere at det kun er de eksterne sager det bliver vist hos kunden

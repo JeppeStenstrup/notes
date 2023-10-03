@@ -4,7 +4,7 @@ description:
 authors: 
 categories:
 created: 2023-10-03
-updated: 2023-10-03T11:54:37+0100
+updated: 2023-10-03T14:44:26+0100
 @end
 
 * 2023-10-03
@@ -18,4 +18,7 @@ updated: 2023-10-03T11:54:37+0100
    -- ( ) Design opsætning
    -- ( ) Styling
    -- ( ) SO implementering af data
-   - ( ) Afklaringsmøde 14:00-15:30
+   - (x) Afklaringsmøde 14:00-15:30
+   -- {:./../../../meetingnotes/aflaringsmøde_myvitec_030923:}[Mødenoter]
+
+   map produkter til Portman | Ideas
