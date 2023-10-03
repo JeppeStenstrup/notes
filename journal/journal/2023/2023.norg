@@ -1,0 +1,15 @@
+@document.meta
+description:
+authors: 
+categories: year
+created: 2023-10-03
+@end
+
+* 2023
+** Day
+   - {:$/journal/2023/10/01:}[2023-10-01]
+   - {:$/journal/2023/10/02:}[2023-10-02]
+   - {:$/journal/2023/10/03:}[2023-10-03]
+   - {:$/journal/2023/10/04:}[2023-10-04]
+** Month
+   - {:$/journal/2023/10/_10:}[Oktober [2023]{:../2023:}]
