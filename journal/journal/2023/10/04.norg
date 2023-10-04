@@ -11,6 +11,9 @@ created: 2023-10-03
    - ( ) Støvsuge og vaske gulv i gangen
    - ( ) Ordne bryggers
 ** Work
+   - ( ) Sagoverblik
+   -- ( ) Tjekke opsætning fra det nuværende MyVitec for at se om jeg kan filtrere på forhånd
+   --- ( ) Hvis den fikser problemet, implementer og test den gamle string
    - ( ) TicketView
    -- ( ) Design opsætning
    -- ( ) Styling
