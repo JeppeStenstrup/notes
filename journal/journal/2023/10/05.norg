@@ -1,0 +1,18 @@
+@document.meta
+description:
+authors: 
+categories:
+created: 2023-10-05
+@end
+
+* 2023-10-05
+** Personal 
+   - ( ) 
+** Work
+   - ( ) Sagoverblik
+   -- ( ) Tjekke opsætning fra det nuværende MyVitec for at se om jeg kan filtrere på forhånd
+   --- ( ) Hvis den fikser problemet, implementer og test den gamle string
+   - ( ) TicketView
+   -- ( ) Design opsætning
+   -- ( ) Styling
+   -- ( ) SO implementering af data
