@@ -9,9 +9,11 @@ created: 2023-10-05
 ** Personal 
    - ( ) 
 ** Work
-   - ( ) Sagoverblik
-   -- ( ) Tjekke opsætning fra det nuværende MyVitec for at se om jeg kan filtrere på forhånd
-   --- ( ) Hvis den fikser problemet, implementer og test den gamle string
+   - (-) Sagoverblik
+   -- (-) Tjekke opsætning fra det nuværende MyVitec for at se om jeg kan filtrere på forhånd
+   --- (-) Hvis den fikser problemet:
+   ---- (x) Implementer SQL
+   ---- ( ) Verificer det virker
    - ( ) TicketView
    -- ( ) Design opsætning
    -- ( ) Styling
